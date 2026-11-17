@@ -5,16 +5,12 @@
   "main": "httpServer.js",
   "scripts": {
     "start-http": "node httpServer.js",
-    "start-express": "node expressApp.js"
-  },
+    "start-express": "node expressApp.js"},
   "keywords": [
     "nodejs",
     "express",
-    "vehicle-management"
-  ],
+    "vehicle-management"],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.21.0"
-  }
-}
+    "express": "^4.21.0"}}
