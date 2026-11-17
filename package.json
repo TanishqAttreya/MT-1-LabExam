@@ -1,0 +1,20 @@
+{
+  "name": "mt1-labexam",
+  "version": "1.0.0",
+  "description": "Vehicle Management Web Application for Full Stack Development Node.js Lab Examination",
+  "main": "httpServer.js",
+  "scripts": {
+    "start-http": "node httpServer.js",
+    "start-express": "node expressApp.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "vehicle-management"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
